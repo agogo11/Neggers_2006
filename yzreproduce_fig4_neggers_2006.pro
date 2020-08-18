@@ -42,7 +42,7 @@ PRO yzreproduce_fig4_neggers_2006
   ;			Written by: Youtong Zheng, Aug 2, 2018
   ;-
 
-  Path = 'G:\MyIDLpackage\MLM_Neggers2006\'
+  Path = 'G:\MyGit\Neggers_2006\'
 
   ;constants
   g=9.80665d ; gravity const ms-2
